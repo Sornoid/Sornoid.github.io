@@ -65,7 +65,7 @@
             <div class="header__left">
                 <span class="header__sup-text">Hello There! I am a</span>
                 <h1 class="header__title">
-                    <span class="header__title-1" data-role="Game">Game</span>
+                    <span class="header__title-1" data-role="Game">Web</span>
                     <span class="header__title-2" data-role="Developer">Developer</span>
                 </h1>
                 <p class="header__msg">As a front-end web developer, my passion lies in creating beautiful and intuitive
@@ -146,7 +146,7 @@
             <article class="work">
                 <div class="work__box">
                     <span class="work__img-box">
-                    <img src="./assets/works/fs.png" alt="My Work 1"/>
+                    <img src="./assets/works/sample.png" alt="My Work 1"/>
                 </span>
                     <h3 class="work__title">Furry Shock</h3>
 		    <p class="service-card__msg">Third-person Shooter</p>
@@ -167,6 +167,32 @@
                     <span class="work__badge">3D</span>
                     <span class="work__badge">Action</span>
                     <span class="work__badge">Adventure</span>
+                </span>
+                </div>
+            </article>
+            <article class="work">
+                <div class="work__box">
+                    <span class="work__img-box">
+                    <img src="./assets/works/sample.png" alt="My Work 1"/>
+                </span>
+                    <h3 class="work__title">My Landing Page</h3>
+                    <span class="work__badges">
+                    <span class="work__badge">HTML</span>
+                    <span class="work__badge">CSS</span>
+                    <span class="work__badge">JavaScript</span>
+                </span>
+                </div>
+            </article>
+            <article class="work">
+                <div class="work__box">
+                    <span class="work__img-box">
+                    <img src="./assets/works/sample.png" alt="My Work 1"/>
+                </span>
+                    <h3 class="work__title">My Landing Page</h3>
+                    <span class="work__badges">
+                    <span class="work__badge">HTML</span>
+                    <span class="work__badge">CSS</span>
+                    <span class="work__badge">JavaScript</span>
                 </span>
                 </div>
             </article>
