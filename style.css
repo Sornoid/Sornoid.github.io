@@ -452,6 +452,14 @@ body {
     padding: 1rem;
     margin-right: 1rem;
 }
+.work__mail{
+    background-color: #59ffb91c;
+    border-radius: 40px;
+    font-weight: 700;
+    font-size: 2.3rem;
+    padding: 1rem;
+    margin-right: 1rem;
+}
 .work__section{
         
 }
@@ -600,7 +608,8 @@ body {
     backdrop-filter: blur(75px);
     text-align: center;
     padding-top: 1.3rem;
-    padding-bottom: 1.3rem;
+    padding-bottom: 2.3rem;
+    height: 50px;
 }
 .footer__link{
     color: #64fcd9;
